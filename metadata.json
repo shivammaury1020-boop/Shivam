@@ -1,0 +1,5 @@
+{
+  "name": "Fitness Hub - Best Gym in Khora Colony",
+  "description": "Modern fitness center in Sector 62A, Noida with expert trainers, high-quality equipment, and LGBTQ+ friendly environment.",
+  "requestFramePermissions": ["geolocation"]
+}
